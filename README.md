@@ -1,10 +1,18 @@
 # KFC_lgoin_ui
 
 A new Flutter project.
-By Abubakar Asif
-You can contact me at:
-www.linkedin.com/in/abubakar-asif-b3b94021a
-gmail/abubakarasif3111@gmail.com
+- 👋 Hi, I’m @Abubakar3111
+- 👀 I’m interested in Coding...
+- 🌱 I’m currently doing Bachelors in Computer Engineering ...
+- 💞️ I’m looking to collaborate on App Development,Web Development,Wordpress,Programming Assignments and Graphic Design...
+- 📫 You can reach me on Github at Abubakar3111,on Google at abubakarasif3111@gmail.com and on LinkedIn at www.linkedin.com/in/ abubakar-asif-b3b94021a
+ ...
+
+<!---
+Abubakar3111/Abubakar3111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 
 
 ## Getting Started
