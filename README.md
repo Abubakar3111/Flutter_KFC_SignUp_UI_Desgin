@@ -1,6 +1,11 @@
-# lgoin_ui
+# KFC_lgoin_ui
 
 A new Flutter project.
+By Abubakar Asif
+You can contact me at:
+www.linkedin.com/in/abubakar-asif-b3b94021a
+gmail/abubakarasif3111@gmail.com
+
 
 ## Getting Started
 
